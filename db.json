@@ -1,0 +1,5 @@
+json-server --watch db.json 
+
+{
+    "favorites": []
+  }
